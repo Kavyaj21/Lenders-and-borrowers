@@ -1,6 +1,6 @@
-Run and program and give input according to displayed options to be exectued.
+Run the program and give input according to displayed options to be exectued.
 
-First register lender and borrower.
+First register lender and borrower.(Some of them have been done by me....refer database)
 The borrower may then borrow money from the lender and it will be updated in the database. 
 The ID given during registration is used while borrowing and lending money.
 The lender can view the list of borrowers who have taken money from him/her.
